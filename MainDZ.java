@@ -1,4 +1,5 @@
 package Homework;
+// алгоритм быстрого поиска
 
 import java.util.Scanner;
 
